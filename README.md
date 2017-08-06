@@ -1,7 +1,7 @@
 # Google-Map-API
 Use of the google map geocode to address API function
 
-1.將坐標以緯度 經度的方式儲存在 "座標.txt"
+1.將坐標以緯度 經度的方式儲存在 "座標.txt" ，範例如下圖
 ![alt text](https://github.com/davidwangty/Google-Map-API/blob/master/image/geocode.PNG)
 
 2.執行程式，結果會儲存在 地址_XX_YY_ZZ.txt (地址後面的數字是現在時間 XX是小時 YY是分鐘 ZZ秒)
